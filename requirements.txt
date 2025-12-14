@@ -3,6 +3,9 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+umap-learn
 jupyter
 notebook
+ipykernel
 scipy
+plotly
