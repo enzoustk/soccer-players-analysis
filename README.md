@@ -4,8 +4,7 @@ Este repositório contém o código-fonte e a documentação do **Projeto da Uni
 
 O projeto aplica técnicas de clusterização e análise exploratória para identificar perfis de jogadores e padrões ocultos, simulando cenários para o **FIFA 26**.
 
-# Web App 100% Funcional:
-`https://soccer-players-analysis.streamlit.app`
+# [Launch Web App](https://soccer-players-analysis.streamlit.app)
 
 ## Objetivos do Projeto
 Conforme as diretrizes da disciplina, este trabalho abrange:
